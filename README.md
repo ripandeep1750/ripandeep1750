@@ -6,10 +6,7 @@ Hey there! I'm **Ripandeep Kaur**, passionate about **Machine Learning & Data Sc
 - **Languages:** Python, Java, SQL
 - **Databases:** MySQL
 - **Tools & Technologies:** Git, Power BI, Excel, Jenkins
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RipandeepKaur&show_icons=true&theme=radical)
-
+- 
 ## 🌎 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ripandeep-kaur-a271a71b7/)
 
